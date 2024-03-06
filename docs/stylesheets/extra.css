@@ -1,0 +1,22 @@
+[data-md-color-scheme="ferrari-regular"] {
+  --md-primary-fg-color:        #A6051A;
+  --md-accent-fg-color:         #FFF200;
+  /* The below changes the font color in the header! */
+  --md-primary-bg-color:        #FFFFFF;
+  /* Footer */
+  --md-footer-bg-color:         #FFEB00;
+  --md-footer-bg-color--dark:   #FFF200;
+  /* A link */
+  --md-typeset-a-color:         #A6051A;
+}
+[data-md-color-scheme="ferrari-reverse"] {
+  --md-primary-fg-color:        #FFF200;
+  --md-accent-fg-color:         #A6051A;
+  /* The below changes the font color in the header! */
+  --md-primary-bg-color:        #111111;
+  /* Footer */
+  --md-footer-bg-color:         #A6051A;
+  --md-footer-bg-color--dark:   #A6051A;
+  /* A link */
+  --md-typeset-a-color:         #A6051A;
+}

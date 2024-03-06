@@ -1,3 +1,9 @@
 site_name: Dr. Bill Jung
 theme:
   name: material
+  palette:
+    scheme: ferrari-regular
+extra_css:
+  - stylesheets/extra.css
+extra:
+  generator: false
